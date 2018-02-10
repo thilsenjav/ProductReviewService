@@ -1,0 +1,1 @@
+insert into users(id,name,email,password,enabled) values(1,'Senthil','senthil@gmail.com','pwd12345',true)
